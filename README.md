@@ -1,2 +1,2 @@
-# COVID_19
-COVID-19 ProSocial Behaviour Analysis
+# COVID-19
+COVID-19 ProSocial Behaviour Data Analysis Project
